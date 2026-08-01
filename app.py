@@ -431,4 +431,4 @@ elif nav_mode == "⚙️ Admin Price Portal":
 
 # Footer
 st.divider()
-st.caption("© 2026 Rehman Cables eStore | Authorized Electrical Distribution Partner | All rights reserved.")
+st.caption("© 2026 Farhan Cables eStore | Authorized Electrical Distribution Partner | All rights reserved.")
