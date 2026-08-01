@@ -8,7 +8,7 @@ import time
 # PAGE CONFIGURATION
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Rehman Cables | Industrial Electrical Online Store",
+    page_title="Farhan Cables | Industrial Electrical Online Store",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded"
